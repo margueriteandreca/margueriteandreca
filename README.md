@@ -1,9 +1,9 @@
 <h1 align="center">Hi, I'm Marguerite. Let's get in touch:</h1>
 
 <div align="center" id="badges">
-  <a href="https://www.linkedin.com/in/marguerite-andreca/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" target="_blank"/>
-  <a href="mailto:margueriteandreca@gmail.com"><img src="https://img.shields.io/badge/-Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge" target="_blank"/>
-  <a href= "https://medium.com/@margueriteandreca"><img src="https://img.shields.io/badge/-Medium-black?style=for-the-badge&logo=medium&logoColor=white" alt="Twitter Badge" target="_blank"/>
+  <a href="https://www.linkedin.com/in/marguerite-andreca/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/></a>
+  <a href="mailto:margueriteandreca@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/></a>
+  <a href= "https://medium.com/@margueriteandreca" target="_blank"><img src="https://img.shields.io/badge/-Medium-black?style=for-the-badge&logo=medium&logoColor=white" alt="Twitter Badge"/></a>
 </div>
 <br>
 

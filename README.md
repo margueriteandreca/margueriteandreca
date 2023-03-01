@@ -3,16 +3,22 @@
 <div align="center" id="badges">
   <a href="https://www.linkedin.com/in/marguerite-andreca/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/></a>
   <a href="mailto:margueriteandreca@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/></a>
-  <a href= "https://medium.com/@margueriteandreca" target="_blank"><img src="https://img.shields.io/badge/-Medium-black?style=for-the-badge&logo=medium&logoColor=white" alt="Twitter Badge"/></a>
+    <a href= "https://margueriteandreca.com" target="_blank"><img src="https://img.shields.io/badge/-Portfolio-yellow?style=for-the-badge&logo=small&logoColor=white" alt="Portfolio Badge"/></a>
+  <a href= "https://medium.com/@margueriteandreca" target="_blank"><img src="https://img.shields.io/badge/-Medium-black?style=for-the-badge&logo=medium&logoColor=white" alt="Medium Badge"/></a>
+
+</div>
 </div>
 <br>
 
 ## About me:
 
 
-I am a Full-Stack Software Engineer based in New York City. At the moment, I am building applications using React, NextJS, Ruby on Rails and Django. I am currently open to opportunities, both remote and on-site in the NYC area. Feel free to browse my work and shoot me a question. I'm always open to chat! 
+I am a Full-Stack Software Engineer based in New York City. At the moment, I am building applications using React, NextJS, Ruby on Rails and Django. I am currently open to opportunities, both remote and on-site in the NYC area. Feel free to browse my work and shoot me a question. I'm always open to chat!
+<br><br>
+
+**For more, visit my [PORTFOLIO SITE](margueriteandreca.com)**
   
- <br>
+<br>
 
 
 <!---

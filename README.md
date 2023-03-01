@@ -16,7 +16,7 @@
 I am a Full-Stack Software Engineer based in New York City. At the moment, I am building applications using React, NextJS, Ruby on Rails and Django. I am currently open to opportunities, both remote and on-site in the NYC area. Feel free to browse my work and shoot me a question. I'm always open to chat!
 <br><br>
 
-**For more, visit my [PORTFOLIO SITE](margueriteandreca.com)**
+**For more, visit my [PORTFOLIO SITE](https://www.margueriteandreca.com)**
   
 <br>
 
